@@ -12,7 +12,7 @@
 ### Буду очень признателен, если мои проекты тебе будут полезны, __сенпай.__ :heart:
 ***
 ### __[EN]__
-### Hi, my name is __Nikita__, I'm 18 years old. I have been studying programming since I was 11 years old, I have little experience in programming languages.
+### Hi, my name is __Nikita__, I'm 19 years old. I have been studying programming since I was 11 years old, I have little experience in programming languages.
 
 ### I am currently fond of the __`C++/C#`__ language, sometimes I use,  __`SourcePawn`__ for writing plugins for games that use the Source engine.
 
