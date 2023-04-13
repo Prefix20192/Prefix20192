@@ -5,22 +5,23 @@
 ### __[RU]__
 ### Привет, меня зовут __Никита__, мне 19 лет. Изучаю программирование с 11 лет, имею небольшой опыт в языках программирования.
 
-### Увлекаюсь на данный момент языком __`C++/C#`__ иногда использую __`SourcePawn`__, для написание плагинов на игры которые используют Source движок.
+### Увлекаюсь на данный момент языком __`PHP`__.
 
-### Обычно мои проeкты в основном будут на языка __`PHP`__,  __`HTML/CSS/JS`__,  __`SourcePawn`__, чуточку работаю над файлами формата __`.tpl`__ (smarty).
+### Обычно мои проeкты в основном будут на языка __`PHP`__,  __`HTML/CSS/JS`__,  шаблоны написаны на шаблонизаторе __`smarty`__.
 
 ### Буду очень признателен, если мои проекты тебе будут полезны, __сенпай.__ :heart:
 ***
 ### __[EN]__
-### Hi, my name is __Nikita__, I'm 19 years old. I have been studying programming since I was 11 years old, I have little experience in programming languages.
+### Hello, my name is __Nikita__, I am 19 years old. I have been studying programming since I was 11 years old, I have little experience in programming languages.
 
-### I am currently fond of the __`C++/C#`__ language, sometimes I use,  __`SourcePawn`__ for writing plugins for games that use the Source engine.
+### I am currently fond of the __`PHP`__ language.
 
-### Usually my projects will mainly be in the language __`PHP`__,  __`HTML/CSS/JS`__, __`SourcePawn`__ I'm working a little on files of the format __`.tpl`__ (smarty).
+### Usually my projects will be mostly in __`PHP`__, __`HTML/CSS/JS`__ languages, templates are written in __`smarty`__ template engine.
 
 ### I will be very grateful if my projects will be useful to you, __senpai.__ :heart:
 ***
 # __Tools and Languages | Инструменты и языки__
+![laravel](https://img.shields.io/badge/-laravel-090909?style=for-the-badge&logo=laravel&logoColor=ff0000)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=00B3E0)
 ![SourcePawn](https://img.shields.io/badge/-SourcePawn-090909?style=for-the-badge&logo=sourcepawn&logoColor=00B3E0)
 ![Sql](https://img.shields.io/badge/-Sql/Mysql-090909?style=for-the-badge&logo=mysql&logoColor=00B3E0)
@@ -30,6 +31,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFD73A)
 ![Framework](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=FFD73A)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-090909?style=for-the-badge&logo=wordpress&logoColor=00B3E0)
+
 
 
 # __Follow me | Я бываю тут__
