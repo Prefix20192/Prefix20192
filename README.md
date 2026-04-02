@@ -1,5 +1,4 @@
-![MySenPai](https://pa1.narvii.com/6862/6098ddd3be86e6253a9a2174796bf3fba9c06867r1-500-260_hq.gif)
-
+![MySenPai](https://tenor.com/kZhIUepzVmj.gif)
 
 # __About me | Обо мне__
 ### __[RU]__
@@ -33,16 +32,6 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-090909?style=for-the-badge&logo=wordpress&logoColor=00B3E0)
 
 
-
-# __Follow me | Я бываю тут__
-[![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=00B3E0)](https://vk.com/cyxaruk1337)
-[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=00B3E0)](https://tlgg.ru/@Prefix20192)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=FEFEFE)](https://discrod.com/Pr[E]fix#7453)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prefix20192&show_icons=true&theme=radical)
 
-
-
-
-![MySenPai](https://pa1.narvii.com/8008/5ff3a5128bf7a511810414eecce8018a7b0a52cer1-500-282_hq.gif)
+![MySenPai](https://tenor.com/dRYW9Xecyuz.gif)
