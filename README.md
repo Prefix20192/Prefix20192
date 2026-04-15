@@ -2,7 +2,7 @@
 
 # __About me | Обо мне__
 ### __[RU]__
-### Привет, меня зовут __Никита__, мне 20 лет. Изучаю программирование с 11 лет, имею небольшой опыт в языках программирования.
+### Привет, меня зовут __Никита__, мне 21 год. Изучаю программирование с 11 лет, имею небольшой опыт в языках программирования.
 
 ### Увлекаюсь на данный момент языком __`PHP`__.
 
@@ -11,7 +11,7 @@
 ### Буду очень признателен, если мои проекты тебе будут полезны, __сенпай.__ :heart:
 ***
 ### __[EN]__
-### Hello, my name is __Nikita__, I am 19 years old. I have been studying programming since I was 11 years old, I have little experience in programming languages.
+### Hello, my name is __Nikita__, I am 21 years old. I have been studying programming since I was 11 years old, I have little experience in programming languages.
 
 ### I am currently fond of the __`PHP`__ language.
 
